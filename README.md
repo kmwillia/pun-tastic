@@ -1,2 +1,2 @@
 # pun-tastic
-?sdrawkcab epyt siht seod yhW
+App idea!  An app that lists all the puns I think of.  Genuis!
